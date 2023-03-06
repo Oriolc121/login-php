@@ -1,2 +1,2 @@
-# loginb-sico
+# login-php
 Login básico en php. 
